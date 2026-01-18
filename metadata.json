@@ -1,0 +1,8 @@
+{
+  "name": "CoinRush - IP-Based Earning Platform",
+  "description": "A comprehensive earning platform where users complete tasks, play games, and claim bonuses based on IP identification. Features a powerful admin panel for managing tasks, coupons, and withdrawals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
